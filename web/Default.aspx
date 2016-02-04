@@ -7,10 +7,8 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
     <div>
-     hello world 
+        <h3>สวัสดี ชาวโลก !!!!!</h3>
     </div>
-    </form>
 </body>
 </html>
